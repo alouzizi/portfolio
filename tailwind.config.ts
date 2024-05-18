@@ -15,6 +15,10 @@ const config: Config = {
 			colors: {
 				oronge: "#FD853A",
 			},
+			fontFamily: {
+				roboto: ["Roboto"],
+				urbanist: ['Urbanist'],
+			},
 		},
 	},
 	plugins: [],
